@@ -56,4 +56,9 @@ This allowed me to upload the zipped file to AWS Lambda.
 ## Monitoring the Lambda Function:
 After the function is uploaded to AWS Lambda, you can monitor the function by going to the AWS X-Ray console. Here, you can see the traces and the performance of the function.
 
+## Cloud Watch Logs:
+You can also monitor the function by going to the Cloud Watch Logs. Here, you can see the logs of the function and see if there are any errors or issues.
+<img width="1619" alt="Screenshot 2024-02-10 at 12 56 33 PM" src="https://github.com/nogibjj/aad64_Pandas-Script/assets/143753050/92490ae5-4fc0-4e60-a984-6c4d7b4a8c9e">
+<img width="1415" alt="Screenshot 2024-02-10 at 1 55 35 PM" src="https://github.com/nogibjj/aad64_Pandas-Script/assets/143753050/a499d2a5-7041-4568-932d-6dad7920df95">
+
 
