@@ -16,6 +16,7 @@ For this project, I used the same policies as the previous project. The policies
 - AmazonDynamoDBFullAccess
 - AmazonCloudFormationFullAccess
 - APIGatewayInvokeFullAccess
+
 Additionally, I also added the following to allow for monitoring and logging: 
 - AWSXRayFullAccess
 
