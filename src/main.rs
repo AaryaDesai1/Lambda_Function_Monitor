@@ -10,6 +10,7 @@ use uuid::Uuid; // Import Uuid from the uuid crate
 
 use tracing_subscriber::filter::EnvFilter;
 use tracing::info;
+use dotenv::dotenv;
 use std::env;
 use std::fs;
 
